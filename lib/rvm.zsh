@@ -4,4 +4,5 @@ function rvm_prompt_info() {
   echo "($ruby_version)"
 }
 
+source $HOME/.rvm/scripts/rvm
 
