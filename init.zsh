@@ -5,7 +5,7 @@ export ZSH=$HOME/.zsh.d
 
 # Set to the name theme to load.
 # Look in ~/.oh-my-zsh/themes/
-export ZSH_THEME="mine"
+export ZSH_THEME="macovsky-modified-mine"
 
 # Set to this to use case-sensitive completion
 # export CASE_SENSITIVE="true"
