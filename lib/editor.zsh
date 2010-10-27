@@ -1,3 +1,3 @@
-export EDITOR="emacsclient -c"
-alias e="emacsclient -c"
+export EDITOR="emacsclient"
+alias e=$EDITOR
 alias et="emacsclient -t"
