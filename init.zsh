@@ -3,7 +3,7 @@
 # Path to your oh-my-zsh configuration.
 export ZSH=$HOME/.zsh.d
 
-# Set to the name theme to load.
+# Set name of the theme to load.
 # Look in ~/.oh-my-zsh/themes/
 export ZSH_THEME="mine"
 
@@ -16,9 +16,12 @@ export ZSH_THEME="mine"
 # Uncomment following line if you want to disable colors in ls
 # export DISABLE_LS_COLORS="true"
 
+# Uncomment following line if you want to disable autosetting terminal title.
+# export DISABLE_AUTO_TITLE="true"
+
 # Which plugins would you like to load? (plugins can be found in ~/.oh-my-zsh/plugins/*)
 # Example format: plugins=(rails git textmate ruby lighthouse)
-plugins=(git brew osx)
+plugins=(git command-not-found)
 
 source $ZSH/oh-my-zsh.sh
 
