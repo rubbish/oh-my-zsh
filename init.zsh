@@ -21,7 +21,7 @@ export ZSH_THEME="mine"
 
 # Which plugins would you like to load? (plugins can be found in ~/.oh-my-zsh/plugins/*)
 # Example format: plugins=(rails git textmate ruby lighthouse)
-plugins=(git command-not-found)
+plugins=(git vagrant command-not-found)
 
 source $ZSH/oh-my-zsh.sh
 
